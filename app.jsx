@@ -20,7 +20,7 @@ const BazarKolkata = () => {
     <div className="bg-[#00070d] text-white min-h-screen font-sans selection:bg-[#e8c99a] selection:text-black">
 
       {/* Landing Section */}
-      <section className="relative min-h-[95vh] flex flex-col items-center justify-center text-center px-4 overflow-hidden">
+      <section className="relative min-h-[100vh] flex flex-col items-center justify-center text-center px-4 overflow-hidden">
         <div className="absolute inset-0 bg-[url('https://i.pinimg.com/736x/ab/c1/89/abc18959591f814d848c02d7cebcd377.jpg')] bg-cover bg-center">
           <div className="absolute inset-0 bg-black/70 backdrop-blur-[1px]"></div>
         </div>
